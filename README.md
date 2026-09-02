@@ -1,4 +1,4 @@
-# custom vector class implementation 
+# Custom vector class implementation 
 
 A Python `Vec` class implemented using tuples. It supports vector addition, subtraction, scalar operations, in-place operations, negation, `len()`, `zeros()`, `ones()`, `uniform()`, and Euclidean norm.
 
